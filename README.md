@@ -5,8 +5,7 @@ During my project with UNP on Worker Productivity Analysis, I worked with a comp
 
 
 GOOGLE COLAB LINK:
-https://colab.research.google.com/drive/1UX0adfjDzEM5EqUz90TlAS10qP5vYrzz
-
+https://drive.google.com/file/d/19Iwvmuvo_pUR0MjU2J4RV8tiHOZR7Zun/view?usp=drive_link
 
 PROJECT PRESENTATION LINK:
-https://docs.google.com/presentation/d/1iouGDZoXOWisFD8MhrI7d4MuHB2BzZ9X/edit?usp=drivesdk&ouid=105223082794582213864&rtpof=true&sd=true
+https://drive.google.com/file/d/1tH5Hfp-pRUZVLFfvVjQyDtahsUpXrmRg/view?usp=drive_link
